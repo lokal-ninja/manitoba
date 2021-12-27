@@ -1,6 +1,6 @@
 ---
 title: Neepawa
 url: /neepawa/
-latitude: 50.2319353
-longitude: -99.4637261
+latitude: 50.226
+longitude: -99.475
 ---

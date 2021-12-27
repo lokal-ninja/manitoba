@@ -1,5 +1,5 @@
 ---
 title: "Tweed"
 url: /winnipeg/tweed/
-shop: cannabis
+shop: Hanf
 ---

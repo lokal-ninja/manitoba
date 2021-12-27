@@ -1,6 +1,6 @@
 ---
 title: Riding Mountain
 url: /riding-mountain/
-latitude: 
-longitude: 
+latitude: 50.531
+longitude: -99.469
 ---

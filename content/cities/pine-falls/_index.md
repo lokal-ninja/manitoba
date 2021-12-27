@@ -1,6 +1,6 @@
 ---
 title: Pine Falls
 url: /pine-falls/
-latitude: 50.564474700000005
-longitude: -96.21755350000001
+latitude: 50.569
+longitude: -96.243
 ---

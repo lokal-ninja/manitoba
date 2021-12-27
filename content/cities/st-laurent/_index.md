@@ -1,6 +1,6 @@
 ---
 title: St Laurent
 url: /st-laurent/
-latitude: 
-longitude: 
+latitude: 50.415
+longitude: -97.942
 ---

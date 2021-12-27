@@ -1,5 +1,5 @@
 ---
 title: "CF Polo Park"
 url: /winnipeg/cf-polo-park/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,6 +1,6 @@
 ---
 title: Morris
 url: /morris/
-latitude: 49.35331600000001
-longitude: -97.3655648
+latitude: 49.343
+longitude: -97.368
 ---

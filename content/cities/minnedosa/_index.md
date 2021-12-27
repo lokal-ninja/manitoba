@@ -1,6 +1,6 @@
 ---
 title: Minnedosa
 url: /minnedosa/
-latitude: 50.249865
-longitude: -99.8385233
+latitude: 50.247
+longitude: -99.838
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rosser
 url: /rosser/
-latitude: 50.004442600000004
-longitude: -97.4067036
+latitude: 49.992
+longitude: -97.32
 ---

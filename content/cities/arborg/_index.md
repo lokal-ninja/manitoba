@@ -1,6 +1,6 @@
 ---
 title: Arborg
 url: /arborg/
-latitude: 50.9038419
-longitude: -97.2224831
+latitude: 50.909
+longitude: -97.218
 ---

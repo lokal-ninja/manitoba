@@ -1,6 +1,6 @@
 ---
 title: Roland
 url: /roland/
-latitude: 49.366194
-longitude: -97.9342745
+latitude: 49.367
+longitude: -97.94
 ---

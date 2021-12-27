@@ -1,6 +1,6 @@
 ---
 title: Clandeboye
 url: /clandeboye/
-latitude: 
-longitude: 
+latitude: 50.242
+longitude: -96.975
 ---

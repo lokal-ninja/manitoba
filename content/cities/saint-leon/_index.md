@@ -1,6 +1,6 @@
 ---
 title: Saint Leon
 url: /saint-leon/
-latitude: 
-longitude: 
+latitude: 49.362
+longitude: -98.592
 ---

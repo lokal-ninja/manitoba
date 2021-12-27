@@ -1,6 +1,6 @@
 ---
 title: Portage La Prairie
 url: /portage-la-prairie/
-latitude: 
-longitude: 
+latitude: 49.973
+longitude: -98.291
 ---

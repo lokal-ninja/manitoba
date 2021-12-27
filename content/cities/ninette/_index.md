@@ -1,6 +1,6 @@
 ---
 title: Ninette
 url: /ninette/
-latitude: 49.400000000000006
-longitude: -99.63333300000001
+latitude: 49.402
+longitude: -99.63
 ---

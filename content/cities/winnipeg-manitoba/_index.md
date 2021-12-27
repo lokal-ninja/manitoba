@@ -1,6 +1,6 @@
 ---
 title: Winnipeg, Manitoba
 url: /winnipeg-manitoba/
-latitude: 
-longitude: 
+latitude: 49.865
+longitude: -97.134
 ---

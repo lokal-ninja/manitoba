@@ -1,6 +1,6 @@
 ---
 title: St-Pierre-Jolys
 url: /st-pierre-jolys/
-latitude: 
-longitude: 
+latitude: 49.45
+longitude: -96.983
 ---

@@ -1,6 +1,6 @@
 ---
 title: St. Norbert
 url: /st-norbert/
-latitude: 
-longitude: 
+latitude: 49.767
+longitude: -97.156
 ---

@@ -1,6 +1,6 @@
 ---
 title: Whiteshell
 url: /whiteshell/
-latitude: 
-longitude: 
+latitude: 49.747
+longitude: -95.216
 ---

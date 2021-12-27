@@ -1,6 +1,6 @@
 ---
 title: Sarto
 url: /sarto/
-latitude: 49.399669
-longitude: -96.74318240000001
+latitude: 49.4
+longitude: -96.742
 ---

@@ -1,6 +1,6 @@
 ---
 title: Swan Lake
 url: /swan-lake/
-latitude: 49.410730300000004
-longitude: -98.78941950000001
+latitude: 49.4
+longitude: -98.839
 ---

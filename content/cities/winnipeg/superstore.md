@@ -1,5 +1,5 @@
 ---
 title: "Superstore"
 url: /winnipeg/superstore/
-shop: supermarket
+shop: Supermarkt
 ---

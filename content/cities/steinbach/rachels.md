@@ -1,5 +1,5 @@
 ---
 title: "Rachel's"
 url: /steinbach/rachels/
-shop: gift
+shop: Andenken
 ---

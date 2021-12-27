@@ -1,6 +1,6 @@
 ---
 title: Garson
 url: /garson/
-latitude: 50.0774496
-longitude: -96.7068005
+latitude: 50.077
+longitude: -96.707
 ---

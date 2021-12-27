@@ -1,6 +1,6 @@
 ---
 title: Carberry
 url: /carberry/
-latitude: 49.8693267
-longitude: -99.36158160000001
+latitude: 49.9
+longitude: -99.202
 ---

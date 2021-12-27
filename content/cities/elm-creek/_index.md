@@ -1,6 +1,6 @@
 ---
 title: Elm Creek
 url: /elm-creek/
-latitude: 49.6763969
-longitude: -97.99791130000001
+latitude: 49.676
+longitude: -97.996
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fraserwood
 url: /fraserwood/
-latitude: 50.640401100000005
-longitude: -97.21592030000001
+latitude: 50.64
+longitude: -97.215
 ---

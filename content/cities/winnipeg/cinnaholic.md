@@ -1,5 +1,5 @@
 ---
 title: "Cinnaholic"
 url: /winnipeg/cinnaholic/
-shop: bakery
+shop: Bäckerei
 ---

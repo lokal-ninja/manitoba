@@ -1,5 +1,5 @@
 ---
 title: "Foodfare"
 url: /winnipeg/foodfare/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: East Selkirk
 url: /east-selkirk/
-latitude: 
-longitude: 
+latitude: 50.137
+longitude: -96.836
 ---

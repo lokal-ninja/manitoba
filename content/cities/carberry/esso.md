@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /carberry/esso/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mckenzies Portage Funeral Chapel"
 url: /portage-la-prairie/mckenzies-portage-funeral-chapel/
-shop: funeral directors
+shop: Bestattungen
 ---
