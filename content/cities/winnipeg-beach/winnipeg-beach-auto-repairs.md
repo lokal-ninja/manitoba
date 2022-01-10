@@ -1,5 +1,5 @@
 ---
 title: "Winnipeg Beach auto repairs"
 url: /winnipeg-beach/winnipeg-beach-auto-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

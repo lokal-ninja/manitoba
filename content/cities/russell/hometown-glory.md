@@ -1,5 +1,5 @@
 ---
 title: "Hometown Glory"
 url: /russell/hometown-glory/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /st-laurent/esso/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /winkler/canadian-tire/
-shop: Warenhaus
+shop: department store
 ---

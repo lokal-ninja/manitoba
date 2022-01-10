@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /winnipeg/walmart/
-shop: Warenhaus
+shop: department store
 ---

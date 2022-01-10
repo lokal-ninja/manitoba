@@ -1,5 +1,5 @@
 ---
 title: "Crossroads"
 url: /steinbach/crossroads/
-shop: Lebensmittel
+shop: convenience
 ---

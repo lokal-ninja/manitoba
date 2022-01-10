@@ -1,5 +1,5 @@
 ---
 title: "AVECAR Automotive Service"
 url: /lorette-west/avecar-automotive-service/
-shop: Autowerkstatt
+shop: car repair
 ---

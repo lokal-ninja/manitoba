@@ -1,5 +1,5 @@
 ---
 title: "XTR"
 url: /ninette/xtr/
-shop: Lebensmittel
+shop: convenience
 ---

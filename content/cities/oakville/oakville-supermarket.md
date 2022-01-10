@@ -1,5 +1,5 @@
 ---
 title: "Oakville Supermarket"
 url: /oakville/oakville-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

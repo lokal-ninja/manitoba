@@ -1,5 +1,5 @@
 ---
 title: "Cityplace"
 url: /winnipeg/cityplace/
-shop: Einkaufszentrum
+shop: mall
 ---

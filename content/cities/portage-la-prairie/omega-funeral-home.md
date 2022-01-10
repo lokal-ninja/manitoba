@@ -1,5 +1,5 @@
 ---
 title: "Omega Funeral Home"
 url: /portage-la-prairie/omega-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

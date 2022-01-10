@@ -1,5 +1,5 @@
 ---
 title: "Pierre's Auto Service"
 url: /winnipeg/pierres-auto-service/
-shop: Autohaus
+shop: car
 ---

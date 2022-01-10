@@ -1,5 +1,5 @@
 ---
 title: "Atmosphere"
 url: /winnipeg/atmosphere/
-shop: Outdoor
+shop: outdoor
 ---

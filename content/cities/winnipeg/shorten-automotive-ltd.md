@@ -1,5 +1,5 @@
 ---
 title: "Shorten Automotive Ltd"
 url: /winnipeg/shorten-automotive-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

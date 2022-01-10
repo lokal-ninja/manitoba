@@ -1,5 +1,5 @@
 ---
 title: "The Brick"
 url: /winnipeg/the-brick/
-shop: Möbel
+shop: furniture
 ---

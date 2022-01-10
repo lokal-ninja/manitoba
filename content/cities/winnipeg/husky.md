@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /winnipeg/husky/
-shop: Lebensmittel
+shop: convenience
 ---

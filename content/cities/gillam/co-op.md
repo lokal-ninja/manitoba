@@ -1,5 +1,5 @@
 ---
 title: "Co-Op"
 url: /gillam/co-op/
-shop: Warenhaus
+shop: department store
 ---

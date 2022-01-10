@@ -1,5 +1,5 @@
 ---
 title: "Vita Health Fresh Market"
 url: /winnipeg/vita-health-fresh-market/
-shop: Bioladen
+shop: health food
 ---

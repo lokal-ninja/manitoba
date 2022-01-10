@@ -1,5 +1,5 @@
 ---
 title: "Fairway Specialty Vehicles"
 url: /steinbach/fairway-specialty-vehicles/
-shop: Autohaus
+shop: car
 ---

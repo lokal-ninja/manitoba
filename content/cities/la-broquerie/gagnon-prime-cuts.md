@@ -1,5 +1,5 @@
 ---
 title: "Gagnon Prime Cuts"
 url: /la-broquerie/gagnon-prime-cuts/
-shop: Supermarkt
+shop: supermarket
 ---

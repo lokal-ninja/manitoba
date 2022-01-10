@@ -1,5 +1,5 @@
 ---
 title: "Craig Street Cats"
 url: /winnipeg/craig-street-cats/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Euromart"
 url: /winnipeg/euromart/
-shop: Autowerkstatt
+shop: car repair
 ---

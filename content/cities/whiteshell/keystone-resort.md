@@ -1,5 +1,5 @@
 ---
 title: "Keystone Resort"
 url: /whiteshell/keystone-resort/
-shop: Lebensmittel
+shop: convenience
 ---

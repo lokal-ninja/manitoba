@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /deacons-corner/petro-canada/
-shop: Lebensmittel
+shop: convenience
 ---
