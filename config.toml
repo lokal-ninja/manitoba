@@ -1,4 +1,4 @@
-baseURL = "https://ca.shoogle.net/manitoba"
+baseURL = "https://ca.shoogle.net/manitoba/"
 languageCode = "en-US"
 title = "Manitoba"
 theme = "ln-base"
