@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /winnipeg/staples/
+url: /winnipeg/staples-ellice-avenue/
 shop: office supplies
 ---

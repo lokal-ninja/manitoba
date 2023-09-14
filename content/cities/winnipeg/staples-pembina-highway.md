@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /winnipeg/staples/
+url: /winnipeg/staples-pembina-highway/
 shop: office supplies
 ---

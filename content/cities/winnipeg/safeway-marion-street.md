@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /winnipeg/safeway/
+url: /winnipeg/safeway-marion-street/
 shop: supermarket
 ---
