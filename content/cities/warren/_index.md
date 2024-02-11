@@ -1,6 +1,6 @@
 ---
 title: Warren
 url: /warren/
-latitude: 50.13
-longitude: -97.564
+latitude: 50.131
+longitude: -97.547
 ---
