@@ -1,5 +1,5 @@
 ---
 title: "Husky"
-url: /morris/husky/
+url: /brandon/husky/
 shop: convenience
 ---
