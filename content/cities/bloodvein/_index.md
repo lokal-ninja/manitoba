@@ -1,6 +1,6 @@
 ---
 title: Bloodvein
 url: /bloodvein/
-latitude: 51.78
-longitude: -96.699
+latitude: 51.79
+longitude: -96.707
 ---
