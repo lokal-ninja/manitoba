@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /treherne/esso/
-shop: convenience
+shop: Lebensmittel
 ---

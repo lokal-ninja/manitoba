@@ -1,5 +1,5 @@
 ---
 title: "Winnipeg Humane Society"
 url: /winnipeg/winnipeg-humane-society/
-shop: pet
+shop: Tiere
 ---

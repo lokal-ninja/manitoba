@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /morris/esso/
-shop: convenience
+shop: Lebensmittel
 ---

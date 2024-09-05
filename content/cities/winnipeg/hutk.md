@@ -1,5 +1,5 @@
 ---
 title: "HutK"
 url: /winnipeg/hutk/
-shop: furniture
+shop: Möbel
 ---

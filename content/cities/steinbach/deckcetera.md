@@ -1,5 +1,5 @@
 ---
 title: "Deckcetera"
 url: /steinbach/deckcetera/
-shop: hardware
+shop: Eisenwaren
 ---

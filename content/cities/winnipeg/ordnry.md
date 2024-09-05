@@ -1,5 +1,5 @@
 ---
 title: "Ordnry"
 url: /winnipeg/ordnry/
-shop: clothes
+shop: Kleidung
 ---

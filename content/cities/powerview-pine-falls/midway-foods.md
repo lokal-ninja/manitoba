@@ -1,5 +1,5 @@
 ---
 title: "Midway Foods"
 url: /powerview-pine-falls/midway-foods/
-shop: supermarket
+shop: Supermarkt
 ---

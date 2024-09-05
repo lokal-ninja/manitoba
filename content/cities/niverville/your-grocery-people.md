@@ -1,5 +1,5 @@
 ---
 title: "Your Grocery People"
 url: /niverville/your-grocery-people/
-shop: supermarket
+shop: Supermarkt
 ---

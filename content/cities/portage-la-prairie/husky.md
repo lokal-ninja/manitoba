@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /portage-la-prairie/husky/
-shop: convenience
+shop: Lebensmittel
 ---
