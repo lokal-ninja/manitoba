@@ -1,5 +1,5 @@
 ---
 title: "Sagkeeng Superstore"
 url: /fort-alexander/sagkeeng-superstore/
-shop: Supermarkt
+shop: supermarket
 ---

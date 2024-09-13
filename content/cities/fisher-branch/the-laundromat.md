@@ -1,5 +1,5 @@
 ---
 title: "The Laundromat"
 url: /fisher-branch/the-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shamrock Storage Solutions"
 url: /killarney/shamrock-storage-solutions/
-shop: Mieten
+shop: storage rental
 ---

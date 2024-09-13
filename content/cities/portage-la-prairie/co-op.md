@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /portage-la-prairie/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Virden HiWay Grocery"
 url: /virden/virden-hiway-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

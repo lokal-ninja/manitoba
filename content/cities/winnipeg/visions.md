@@ -1,5 +1,5 @@
 ---
 title: "Visions"
 url: /winnipeg/visions/
-shop: Elektronik
+shop: electronics
 ---

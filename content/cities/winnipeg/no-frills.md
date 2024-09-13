@@ -1,5 +1,5 @@
 ---
 title: "No Frills"
 url: /winnipeg/no-frills/
-shop: Supermarkt
+shop: supermarket
 ---

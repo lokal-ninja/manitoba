@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /winnipeg/dollarama/
-shop: Kramladen
+shop: variety store
 ---

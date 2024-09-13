@@ -1,5 +1,5 @@
 ---
 title: "homewoodTaxidermy"
 url: /homewood/homewoodtaxidermy/
-shop: Allgemein
+shop: shop
 ---

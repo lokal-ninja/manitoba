@@ -1,5 +1,5 @@
 ---
 title: "Tempo"
 url: /clandeboye/tempo/
-shop: Lebensmittel
+shop: convenience
 ---

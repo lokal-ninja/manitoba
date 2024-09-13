@@ -1,5 +1,5 @@
 ---
 title: "McIvor Mall"
 url: /winnipeg/mcivor-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eye Candy Lash + Brow Boutique"
 url: /winnipeg/eye-candy-lash-brow-boutique/
-shop: Kosmetik
+shop: beauty
 ---

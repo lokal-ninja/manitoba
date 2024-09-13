@@ -1,5 +1,5 @@
 ---
 title: "Perogy Planet"
 url: /winnipeg/perogy-planet/
-shop: Supermarkt
+shop: supermarket
 ---

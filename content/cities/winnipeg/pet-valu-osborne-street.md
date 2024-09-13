@@ -1,5 +1,5 @@
 ---
 title: "Pet Valu"
 url: /winnipeg/pet-valu-osborne-street/
-shop: Tiere
+shop: pet
 ---

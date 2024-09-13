@@ -1,5 +1,5 @@
 ---
 title: "XTR"
 url: /somerset/xtr/
-shop: Lebensmittel
+shop: convenience
 ---

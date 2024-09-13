@@ -1,5 +1,5 @@
 ---
 title: "Baked Expectations"
 url: /winnipeg/baked-expectations/
-shop: Konditorei
+shop: pastry
 ---

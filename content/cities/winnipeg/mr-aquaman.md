@@ -1,5 +1,5 @@
 ---
 title: "Mr. Aquaman"
 url: /winnipeg/mr-aquaman/
-shop: Wasser
+shop: water
 ---

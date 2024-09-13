@@ -1,5 +1,5 @@
 ---
 title: "Spa Natural"
 url: /winnipeg/spa-natural/
-shop: Kosmetik
+shop: beauty
 ---

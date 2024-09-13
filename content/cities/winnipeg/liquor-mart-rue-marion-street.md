@@ -1,5 +1,5 @@
 ---
 title: "Liquor Mart"
 url: /winnipeg/liquor-mart-rue-marion-street/
-shop: Spirituosen
+shop: alcohol
 ---

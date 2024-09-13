@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /gimli/husky/
-shop: Lebensmittel
+shop: convenience
 ---

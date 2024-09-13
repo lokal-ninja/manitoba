@@ -1,5 +1,5 @@
 ---
 title: "McLaughlin Chevrolet"
 url: /neepawa/mclaughlin-chevrolet/
-shop: Autohaus
+shop: car
 ---

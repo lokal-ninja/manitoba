@@ -1,5 +1,5 @@
 ---
 title: "Co-Op"
 url: /gladstone/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

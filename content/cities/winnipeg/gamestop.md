@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /winnipeg/gamestop/
-shop: Videospiele
+shop: video games
 ---

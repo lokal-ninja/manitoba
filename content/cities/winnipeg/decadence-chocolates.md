@@ -1,5 +1,5 @@
 ---
 title: "Decadence Chocolates"
 url: /winnipeg/decadence-chocolates/
-shop: Schokolade
+shop: chocolate
 ---

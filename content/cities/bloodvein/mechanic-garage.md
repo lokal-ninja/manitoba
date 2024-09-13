@@ -1,5 +1,5 @@
 ---
 title: "Mechanic Garage"
 url: /bloodvein/mechanic-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

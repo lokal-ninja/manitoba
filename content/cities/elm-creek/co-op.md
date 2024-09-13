@@ -1,5 +1,5 @@
 ---
 title: "Co-Op"
 url: /elm-creek/co-op/
-shop: Supermarkt
+shop: supermarket
 ---

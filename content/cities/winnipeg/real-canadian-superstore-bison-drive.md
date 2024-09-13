@@ -1,5 +1,5 @@
 ---
 title: "Real Canadian Superstore"
 url: /winnipeg/real-canadian-superstore-bison-drive/
-shop: Supermarkt
+shop: supermarket
 ---

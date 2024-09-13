@@ -1,5 +1,5 @@
 ---
 title: "Big Hair"
 url: /steinbach/big-hair/
-shop: Friseur
+shop: hairdresser
 ---

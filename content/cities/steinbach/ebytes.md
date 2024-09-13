@@ -1,5 +1,5 @@
 ---
 title: "Ebytes"
 url: /steinbach/ebytes/
-shop: Computer
+shop: computer
 ---

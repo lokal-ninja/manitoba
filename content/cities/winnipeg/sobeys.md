@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /winnipeg/sobeys/
-shop: Supermarkt
+shop: supermarket
 ---

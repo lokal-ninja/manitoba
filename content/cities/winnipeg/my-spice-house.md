@@ -1,5 +1,5 @@
 ---
 title: "My Spice House"
 url: /winnipeg/my-spice-house/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Urban Garage"
 url: /winnipeg/urban-garage/
-shop: Autowerkstatt
+shop: car repair
 ---
