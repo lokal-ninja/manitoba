@@ -1,11 +1,11 @@
 id: 83572142
-type: way
+type: node
 latitude: 49.92745
 longitude: -97.06969
-postcode: "R2K 4C1"
+postcode: R2K 4C1
 city: Winnipeg
-street: "Gateway Road"
-housenumber: 1035
+street: Gateway Road
+housenumber: "1035"
 phone: ""
 opening_hours: ""
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1512"
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1512

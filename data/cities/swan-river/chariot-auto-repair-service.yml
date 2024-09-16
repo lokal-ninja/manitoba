@@ -1,11 +1,11 @@
 id: 1253679814
-type: way
+type: node
 latitude: 52.11534
 longitude: -101.25056
-postcode: "R0L 1Z0"
+postcode: R0L 1Z0
 city: Swan River
-street: "Westwood Road"
-housenumber: 411
-phone: "+1 204-734-9935"
+street: Westwood Road
+housenumber: "411"
+phone: +1 204-734-9935
 opening_hours: ""
 website: ""

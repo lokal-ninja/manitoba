@@ -1,11 +1,11 @@
 id: 538301460
-type: way
+type: node
 latitude: 50.18042
 longitude: -100.60044
-postcode: "R0M 0T0"
+postcode: R0M 0T0
 city: Hamiota
-street: "1 Street"
-housenumber: 31
-phone: "+1-204-764-2666"
+street: 1 Street
+housenumber: "31"
+phone: +1-204-764-2666
 opening_hours: ""
 website: ""

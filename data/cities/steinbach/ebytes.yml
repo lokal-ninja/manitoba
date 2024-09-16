@@ -4,8 +4,8 @@ latitude: 49.52928
 longitude: -96.68935
 postcode: ""
 city: Steinbach
-street: "Main Street"
-housenumber: 175
+street: Main Street
+housenumber: "175"
 phone: "+12043209366"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-16:00"
-website: "https://www.ebytesonline.com/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-16:00
+website: https://www.ebytesonline.com/

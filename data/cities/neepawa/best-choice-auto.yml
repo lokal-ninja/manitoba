@@ -1,11 +1,11 @@
 id: 78599185
-type: way
+type: node
 latitude: 50.226
 longitude: -99.47112
-postcode: "R0J 1H0"
+postcode: R0J 1H0
 city: Neepawa
-street: "Main Street"
-housenumber: 154
-phone: "+1-877-525-1275"
+street: Main Street
+housenumber: "154"
+phone: +1-877-525-1275
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 73315461
-type: way
+type: node
 latitude: 49.88257
 longitude: -97.11447
-postcode: "R2H 0T8"
+postcode: R2H 0T8
 city: Winnipeg
-street: "Marion Street"
-housenumber: 285
+street: Marion Street
+housenumber: "285"
 phone: ""
 opening_hours: ""
 website: ""

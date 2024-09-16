@@ -1,11 +1,11 @@
 id: 39458981
-type: way
+type: node
 latitude: 49.8353
 longitude: -97.14985
 postcode: ""
 city: Winnipeg
-street: "Pembina Highway"
-housenumber: 1490
+street: Pembina Highway
+housenumber: "1490"
 phone: ""
 opening_hours: ""
-website: "https://stores.7-eleven.ca/store/15510"
+website: https://stores.7-eleven.ca/store/15510

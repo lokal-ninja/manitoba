@@ -1,11 +1,11 @@
 id: 300409463
-type: way
+type: node
 latitude: 49.94904
 longitude: -97.10798
-postcode: "R2V 3S5"
+postcode: R2V 3S5
 city: Winnipeg
-street: "Main Street"
-housenumber: 2146
+street: Main Street
+housenumber: "2146"
 phone: ""
 opening_hours: ""
-website: "http://ffs.netfirms.com"
+website: http://ffs.netfirms.com

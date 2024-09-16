@@ -1,11 +1,11 @@
 id: 292389257
-type: way
+type: node
 latitude: 49.51635
 longitude: -96.65893
 postcode: ""
 city: Steinbach
-street: "Main Street"
-housenumber: 824
+street: Main Street
+housenumber: "824"
 phone: ""
 opening_hours: ""
 website: ""

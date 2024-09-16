@@ -1,11 +1,11 @@
 id: 538286935
-type: way
+type: node
 latitude: 49.62134
 longitude: -100.25766
-postcode: "R0K 2C0"
+postcode: R0K 2C0
 city: Souris
-street: "1 Avenue East"
-housenumber: 21
-phone: "+1-204-483-3620"
+street: 1 Avenue East
+housenumber: "21"
+phone: +1-204-483-3620
 opening_hours: ""
 website: ""

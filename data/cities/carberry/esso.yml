@@ -1,11 +1,11 @@
 id: 538812707
-type: way
+type: node
 latitude: 49.87102
 longitude: -99.36106
-postcode: "R0K 0H0"
+postcode: R0K 0H0
 city: Carberry
-street: "First Avenue"
-housenumber: 525
-phone: "+1-204-834-3201"
+street: First Avenue
+housenumber: "525"
+phone: +1-204-834-3201
 opening_hours: ""
 website: ""

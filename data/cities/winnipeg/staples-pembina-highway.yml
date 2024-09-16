@@ -1,11 +1,11 @@
 id: 772527765
-type: way
+type: node
 latitude: 49.82277
 longitude: -97.14991
-postcode: "R3T 4S5"
+postcode: R3T 4S5
 city: Winnipeg
-street: "Pembina Highway"
-housenumber: 1910
+street: Pembina Highway
+housenumber: "1910"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.ca/mb/winnipeg/office-supplies-ca-51.html"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.ca/mb/winnipeg/office-supplies-ca-51.html

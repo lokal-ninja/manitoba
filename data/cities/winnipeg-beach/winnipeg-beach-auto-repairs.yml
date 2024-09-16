@@ -1,11 +1,11 @@
 id: 476440687
-type: way
+type: node
 latitude: 50.50168
 longitude: -96.97512
-postcode: "R0C 3G0"
+postcode: R0C 3G0
 city: Winnipeg Beach
-street: "Highway 9"
-housenumber: 383
-phone: "+1-204-389-4556"
-opening_hours: "Mo-Th 07:00-20:00; Fr 07:00-21:00; Sa 08:00-21:00; Su 08:00-19:00"
+street: Highway 9
+housenumber: "383"
+phone: +1-204-389-4556
+opening_hours: Mo-Th 07:00-20:00; Fr 07:00-21:00; Sa 08:00-21:00; Su 08:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 357277853
-type: way
+type: node
 latitude: 49.53181
 longitude: -96.69576
 postcode: ""
 city: Steinbach
-street: "PTH 52 West"
-housenumber: 60
+street: PTH 52 West
+housenumber: "60"
 phone: ""
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-steinbach-mb-esso-200321560"
+website: https://www.esso.ca/en-ca/find-station/esso-steinbach-mb-esso-200321560

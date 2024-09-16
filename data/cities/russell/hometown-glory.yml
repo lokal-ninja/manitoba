@@ -2,10 +2,10 @@ id: 5046379220
 type: node
 latitude: 50.78144
 longitude: -101.28768
-postcode: "R0J 1W0"
+postcode: R0J 1W0
 city: Russell
-street: "Main Street North"
-housenumber: 202
-phone: "+1-204-773-4336"
-opening_hours: "Mo-Sa 10:00-17:00"
+street: Main Street North
+housenumber: "202"
+phone: +1-204-773-4336
+opening_hours: Mo-Sa 10:00-17:00
 website: ""

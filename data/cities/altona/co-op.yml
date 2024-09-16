@@ -1,11 +1,11 @@
 id: 538599364
-type: way
+type: node
 latitude: 49.10313
 longitude: -97.5597
-postcode: "R0G 0B0"
+postcode: R0G 0B0
 city: Altona
-street: "Centre Avenue West"
-housenumber: 20
-phone: "+1-204-324-5699"
+street: Centre Avenue West
+housenumber: "20"
+phone: +1-204-324-5699
 opening_hours: ""
 website: ""

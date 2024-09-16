@@ -1,11 +1,11 @@
 id: 102380882
-type: way
+type: node
 latitude: 49.81352
 longitude: -97.22162
-postcode: "R3Y 1G5"
+postcode: R3Y 1G5
 city: Winnipeg
-street: "McGillivray Boulevard"
-housenumber: 2560
+street: McGillivray Boulevard
+housenumber: "2560"
 phone: ""
 opening_hours: ""
-website: "https://www.jdpenner.com/"
+website: https://www.jdpenner.com/

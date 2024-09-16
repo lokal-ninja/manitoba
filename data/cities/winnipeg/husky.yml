@@ -1,11 +1,11 @@
 id: 295445746
-type: way
+type: node
 latitude: 49.9337
 longitude: -97.12089
-postcode: "R2V 1Y9"
+postcode: R2V 1Y9
 city: Winnipeg
-street: "Main Street"
-housenumber: 1656
+street: Main Street
+housenumber: "1656"
 phone: ""
-opening_hours: "24/7"
-website: "https://local.myhusky.ca/mb/winnipeg/1656-main-st"
+opening_hours: 24/7
+website: https://local.myhusky.ca/mb/winnipeg/1656-main-st

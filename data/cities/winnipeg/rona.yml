@@ -1,11 +1,11 @@
 id: 58326168
-type: way
+type: node
 latitude: 49.82385
 longitude: -97.20549
-postcode: "R3P 2M6"
+postcode: R3P 2M6
 city: Winnipeg
-street: "Kenaston Boulevard"
-housenumber: 1636
+street: Kenaston Boulevard
+housenumber: "1636"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00; Su 12:00-18:00"
-website: "https://www.rona.ca/"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00; Su 12:00-18:00
+website: https://www.rona.ca/

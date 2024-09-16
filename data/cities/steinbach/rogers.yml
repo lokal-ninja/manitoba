@@ -4,8 +4,8 @@ latitude: 49.53003
 longitude: -96.69034
 postcode: ""
 city: Steinbach
-street: "Main Street"
-housenumber: 145
-phone: "+1-204-326-4988"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
+street: Main Street
+housenumber: "145"
+phone: +1-204-326-4988
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

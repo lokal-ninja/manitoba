@@ -1,11 +1,11 @@
 id: 1254959352
-type: way
+type: node
 latitude: 52.11088
 longitude: -101.25044
-postcode: "R0L 1Z0"
+postcode: R0L 1Z0
 city: Swan River
-street: "Kelsey Trail"
-housenumber: 253
-phone: "+1 204-734-2722"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Kelsey Trail
+housenumber: "253"
+phone: +1 204-734-2722
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 365446717
-type: way
+type: node
 latitude: 49.49939
 longitude: -98.34545
-postcode: "R0G 1V0"
+postcode: R0G 1V0
 city: Roseisle
-street: "Main Avenue"
-housenumber: 56
-phone: "+1-204-828-3479"
+street: Main Avenue
+housenumber: "56"
+phone: +1-204-828-3479
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 55552365
-type: way
+type: node
 latitude: 49.859
 longitude: -97.15039
 postcode: ""
 city: Winnipeg
-street: "Pembina Highway"
-housenumber: 750
+street: Pembina Highway
+housenumber: "750"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1014167418
-type: way
+type: node
 latitude: 49.88154
 longitude: -97.17001
 postcode: ""
 city: Winnipeg
-street: "Westminster Avenue"
-housenumber: 866
+street: Westminster Avenue
+housenumber: "866"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 80493343
-type: way
+type: node
 latitude: 49.97278
 longitude: -98.27475
-postcode: "R1N 0N2"
+postcode: R1N 0N2
 city: Portage la Prairie
-street: "Saskatchewan Avenue East"
-housenumber: 1120
-phone: "+1-204-857-3178"
+street: Saskatchewan Avenue East
+housenumber: "1120"
+phone: +1-204-857-3178
 opening_hours: ""
 website: ""

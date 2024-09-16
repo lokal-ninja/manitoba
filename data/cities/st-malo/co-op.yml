@@ -1,11 +1,11 @@
 id: 539101908
-type: way
+type: node
 latitude: 49.31491
 longitude: -96.9546
-postcode: "R0A 1T0"
+postcode: R0A 1T0
 city: St Malo
-street: "St Malo Rue"
-housenumber: 132
+street: St Malo Rue
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

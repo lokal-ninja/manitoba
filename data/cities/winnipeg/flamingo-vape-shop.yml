@@ -1,11 +1,11 @@
 id: 973341756
-type: way
+type: node
 latitude: 49.87588
 longitude: -97.14269
-postcode: "R3L 1Z3"
+postcode: R3L 1Z3
 city: Winnipeg
-street: "Osborne Street"
-housenumber: 214
+street: Osborne Street
+housenumber: "214"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.flamingoplus.ca"
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.flamingoplus.ca

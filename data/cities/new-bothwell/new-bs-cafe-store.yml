@@ -1,11 +1,11 @@
 id: 539235577
-type: way
+type: node
 latitude: 49.59041
 longitude: -96.89013
-postcode: "R0A 1C0"
+postcode: R0A 1C0
 city: New Bothwell
-street: "Crown Valley Road East"
-housenumber: 20
-phone: "+1-204-388-9585"
+street: Crown Valley Road East
+housenumber: "20"
+phone: +1-204-388-9585
 opening_hours: ""
 website: ""

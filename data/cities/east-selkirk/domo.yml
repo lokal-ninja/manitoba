@@ -1,11 +1,11 @@
 id: 538582177
-type: way
+type: node
 latitude: 50.13695
 longitude: -96.8357
-postcode: "R0E 0M0"
+postcode: R0E 0M0
 city: East Selkirk
-street: "Old Henderson Highway"
-housenumber: 703
-phone: "+1-204-482-4287"
+street: Old Henderson Highway
+housenumber: "703"
+phone: +1-204-482-4287
 opening_hours: ""
 website: ""

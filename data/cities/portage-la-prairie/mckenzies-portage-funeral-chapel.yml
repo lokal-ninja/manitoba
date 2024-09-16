@@ -1,11 +1,11 @@
 id: 80490901
-type: way
+type: node
 latitude: 49.97138
 longitude: -98.29002
-postcode: "R1N 1T8"
+postcode: R1N 1T8
 city: Portage la Prairie
-street: "Royal Road South"
-housenumber: 56
-phone: "+1-204-857-4021"
+street: Royal Road South
+housenumber: "56"
+phone: +1-204-857-4021
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 684441930
-type: way
+type: node
 latitude: 50.25774
 longitude: -96.06162
-postcode: "R0E 1A0"
+postcode: R0E 1A0
 city: Lac du Bonnet
 street: ""
-housenumber: 2
-phone: "+1-204-345-2350"
+housenumber: "2"
+phone: +1-204-345-2350
 opening_hours: ""
-website: "https://www.liquormarts.ca/retailer/liquor-mart/29"
+website: https://www.liquormarts.ca/retailer/liquor-mart/29

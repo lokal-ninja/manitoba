@@ -4,8 +4,8 @@ latitude: 49.87968
 longitude: -97.17282
 postcode: ""
 city: Winnipeg
-street: "Wolseley Avenue"
-housenumber: 967
+street: Wolseley Avenue
+housenumber: "967"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-17:00"
-website: "https://www.prairievelo.ca"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-17:00
+website: https://www.prairievelo.ca

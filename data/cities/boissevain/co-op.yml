@@ -1,11 +1,11 @@
 id: 538283825
-type: way
+type: node
 latitude: 49.22973
 longitude: -100.05871
-postcode: "R0K 0E0"
+postcode: R0K 0E0
 city: Boissevain
-street: "Mill Road"
-housenumber: 578
-phone: "+1-204-534-7243"
+street: Mill Road
+housenumber: "578"
+phone: +1-204-534-7243
 opening_hours: ""
-website: "https://boundarycoop.ca"
+website: https://boundarycoop.ca

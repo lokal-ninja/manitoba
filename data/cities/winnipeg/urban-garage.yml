@@ -1,11 +1,11 @@
 id: 810447873
-type: way
+type: node
 latitude: 49.86855
 longitude: -97.11115
-postcode: "R2M 3K6"
+postcode: R2M 3K6
 city: Winnipeg
-street: "Saint Mary's Road"
-housenumber: 484
+street: Saint Mary's Road
+housenumber: "484"
 phone: ""
 opening_hours: ""
-website: "https://www.urbangarageauto.com/"
+website: https://www.urbangarageauto.com/

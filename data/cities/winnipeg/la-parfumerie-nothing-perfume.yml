@@ -1,11 +1,11 @@
 id: 1014167411
-type: way
+type: node
 latitude: 49.88154
 longitude: -97.17046
-postcode: "R3G2A1"
+postcode: R3G2A1
 city: Winnipeg
-street: "Evanson Street"
-housenumber: 145
+street: Evanson Street
+housenumber: "145"
 phone: ""
-opening_hours: "Th-Sa 12:00-18:00"
-website: "https://www.nothingperfume.com"
+opening_hours: Th-Sa 12:00-18:00
+website: https://www.nothingperfume.com

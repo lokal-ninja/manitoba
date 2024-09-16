@@ -1,11 +1,11 @@
 id: 683722801
-type: way
+type: node
 latitude: 49.86482
 longitude: -99.95933
-postcode: "R7A 7S1"
+postcode: R7A 7S1
 city: Brandon
-street: "18th Street North"
-housenumber: 803
-phone: "+1-204-726-8796"
-opening_hours: "Mo-Fr 09:30-21:00, Sa 09:30-18:00, Su 10:00-18:00"
-website: "https://www.cartersoshkosh.ca/"
+street: 18th Street North
+housenumber: "803"
+phone: +1-204-726-8796
+opening_hours: Mo-Fr 09:30-21:00, Sa 09:30-18:00, Su 10:00-18:00
+website: https://www.cartersoshkosh.ca/

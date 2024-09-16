@@ -1,11 +1,11 @@
 id: 1052375500
-type: way
+type: node
 latitude: 49.92368
 longitude: -97.16886
 postcode: ""
 city: Winnipeg
-street: "McPhillips St"
-housenumber: 665
+street: McPhillips St
+housenumber: "665"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 1189849192
-type: way
+type: node
 latitude: 49.94299
 longitude: -97.12285
-postcode: "R2V 1J3"
+postcode: R2V 1J3
 city: Winnipeg
-street: "Royal Avenue"
-housenumber: 365
+street: Royal Avenue
+housenumber: "365"
 phone: ""
-opening_hours: "Mo-Sa 10:30-19:00; Su 14:00-19:00"
+opening_hours: Mo-Sa 10:30-19:00; Su 14:00-19:00
 website: ""

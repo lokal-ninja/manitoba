@@ -1,11 +1,11 @@
 id: 80492611
-type: way
+type: node
 latitude: 49.97295
 longitude: -98.27932
-postcode: "R1N 0K4"
+postcode: R1N 0K4
 city: Portage la Prairie
-street: "Saskatchewan Avenue East"
-housenumber: 718
-phone: "+1-204-856-2010"
+street: Saskatchewan Avenue East
+housenumber: "718"
+phone: +1-204-856-2010
 opening_hours: ""
-website: "https://stores.7-eleven.ca/store/17618"
+website: https://stores.7-eleven.ca/store/17618

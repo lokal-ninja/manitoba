@@ -1,11 +1,11 @@
 id: 538371922
-type: way
+type: node
 latitude: 50.36656
 longitude: -96.61242
-postcode: "R0E 1W0"
+postcode: R0E 1W0
 city: Brokenhead
-street: "Bison Drive East"
-housenumber: 2
-phone: "+1-204-766-2399"
+street: Bison Drive East
+housenumber: "2"
+phone: +1-204-766-2399
 opening_hours: ""
 website: ""

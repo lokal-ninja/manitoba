@@ -1,11 +1,11 @@
 id: 40989393
-type: way
+type: node
 latitude: 49.81721
 longitude: -97.19308
-postcode: "R3Y 1G4"
+postcode: R3Y 1G4
 city: Winnipeg
-street: "Scurfield Boulevard"
-housenumber: 115
+street: Scurfield Boulevard
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "http://www.ctrentals.ca/"
+website: http://www.ctrentals.ca/

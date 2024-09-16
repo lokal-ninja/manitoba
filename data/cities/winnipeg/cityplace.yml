@@ -1,11 +1,11 @@
 id: 32802449
-type: way
+type: node
 latitude: 49.89133
 longitude: -97.14293
 postcode: ""
 city: Winnipeg
-street: "Saint Mary Avenue"
-housenumber: 333
+street: Saint Mary Avenue
+housenumber: "333"
 phone: ""
 opening_hours: ""
 website: ""

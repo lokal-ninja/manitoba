@@ -1,11 +1,11 @@
 id: 224499706
-type: way
+type: node
 latitude: 50.9091
 longitude: -97.21768
-postcode: "R0C 0A0"
+postcode: R0C 0A0
 city: Arborg
-street: "Main Street"
-housenumber: 316
-phone: "+1-204-376-2349"
+street: Main Street
+housenumber: "316"
+phone: +1-204-376-2349
 opening_hours: ""
 website: ""

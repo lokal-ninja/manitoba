@@ -1,11 +1,11 @@
 id: 101452750
-type: way
+type: node
 latitude: 49.89133
 longitude: -97.15182
 postcode: ""
 city: Winnipeg
-street: "Portage Avenue"
-housenumber: 471
+street: Portage Avenue
+housenumber: "471"
 phone: ""
 opening_hours: ""
 website: ""

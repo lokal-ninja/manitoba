@@ -1,11 +1,11 @@
 id: 523526397
-type: way
+type: node
 latitude: 51.08224
 longitude: -97.60405
-postcode: "R0C 0Z0"
+postcode: R0C 0Z0
 city: Fisher Branch
-street: "Tache Street"
-housenumber: 1
-phone: "+1-204-372-8765"
+street: Tache Street
+housenumber: "1"
+phone: +1-204-372-8765
 opening_hours: ""
 website: ""

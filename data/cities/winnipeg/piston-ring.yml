@@ -1,11 +1,11 @@
 id: 55513203
-type: way
+type: node
 latitude: 49.83677
 longitude: -97.15014
 postcode: ""
 city: Winnipeg
-street: "Pembina Highway"
-housenumber: 1450
+street: Pembina Highway
+housenumber: "1450"
 phone: ""
 opening_hours: ""
-website: "https://pistonringservice.com/"
+website: https://pistonringservice.com/

@@ -1,11 +1,11 @@
 id: 40838192
-type: way
+type: node
 latitude: 49.82389
 longitude: -97.19995
-postcode: "R3P 2M4"
+postcode: R3P 2M4
 city: Winnipeg
-street: "Kenaston Boulevard"
-housenumber: 1665
+street: Kenaston Boulevard
+housenumber: "1665"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.ca/en/stores-near-me/sw-winnipg-manitoba-3177"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.ca/en/stores-near-me/sw-winnipg-manitoba-3177

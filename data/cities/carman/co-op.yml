@@ -1,11 +1,11 @@
 id: 365446713
-type: way
+type: node
 latitude: 49.5111
 longitude: -98.00118
-postcode: "R0G 0J0"
+postcode: R0G 0J0
 city: Carman
-street: "Main Street North"
-housenumber: 61
-phone: "+1-204-745-2073"
+street: Main Street North
+housenumber: "61"
+phone: +1-204-745-2073
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 563333955
-type: way
+type: node
 latitude: 52.11228
 longitude: -101.24793
-postcode: "R0L 1Z0"
+postcode: R0L 1Z0
 city: Swan River
-street: "3rd Street North"
-housenumber: 1506
-phone: "+1 204-734-5308"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: 3rd Street North
+housenumber: "1506"
+phone: +1 204-734-5308
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

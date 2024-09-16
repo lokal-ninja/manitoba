@@ -1,11 +1,11 @@
 id: 472111038
-type: way
+type: node
 latitude: 49.52889
 longitude: -96.69223
-postcode: "R5G 0T3"
+postcode: R5G 0T3
 city: Steinbach
-street: "Brandt Street"
-housenumber: 40
-phone: "+1-204-326-1329"
+street: Brandt Street
+housenumber: "40"
+phone: +1-204-326-1329
 opening_hours: ""
-website: "https://stores.7-eleven.ca/store/29917"
+website: https://stores.7-eleven.ca/store/29917

@@ -1,11 +1,11 @@
 id: 100913193
-type: way
+type: node
 latitude: 49.84786
 longitude: -97.17604
-postcode: "R3T0R3"
+postcode: R3T0R3
 city: Winnipeg
-street: "Hurst Way"
-housenumber: 45
+street: Hurst Way
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1014167419
-type: way
+type: node
 latitude: 49.88149
 longitude: -97.17014
-postcode: "R3G1B2"
+postcode: R3G1B2
 city: Winnipeg
-street: "Westminster Avenue"
-housenumber: 872
+street: Westminster Avenue
+housenumber: "872"
 phone: ""
 opening_hours: ""
 website: ""

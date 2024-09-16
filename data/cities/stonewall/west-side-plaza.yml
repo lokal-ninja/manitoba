@@ -1,11 +1,11 @@
 id: 98621736
-type: way
+type: node
 latitude: 50.1357
 longitude: -97.32784
-postcode: "R0C 2Z0"
+postcode: R0C 2Z0
 city: Stonewall
-street: "Main Street"
-housenumber: 333
+street: Main Street
+housenumber: "333"
 phone: ""
 opening_hours: ""
 website: ""

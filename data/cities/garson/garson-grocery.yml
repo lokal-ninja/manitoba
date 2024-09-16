@@ -1,11 +1,11 @@
 id: 302763020
-type: way
+type: node
 latitude: 50.07655
 longitude: -96.7069
-postcode: "R0E 0R0"
+postcode: R0E 0R0
 city: Garson
-street: "Garson Drive"
-housenumber: 176
-phone: "+1-204-268-2454"
+street: Garson Drive
+housenumber: "176"
+phone: +1-204-268-2454
 opening_hours: ""
 website: ""

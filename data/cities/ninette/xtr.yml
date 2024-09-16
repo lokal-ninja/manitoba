@@ -1,11 +1,11 @@
 id: 538783054
-type: way
+type: node
 latitude: 49.40155
 longitude: -99.63037
-postcode: "R0K 1R0"
+postcode: R0K 1R0
 city: Ninette
-street: "Queen Street"
-housenumber: 242
-phone: "+1-204-528-3535"
+street: Queen Street
+housenumber: "242"
+phone: +1-204-528-3535
 opening_hours: ""
 website: ""

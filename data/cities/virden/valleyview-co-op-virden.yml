@@ -1,11 +1,11 @@
 id: 223272729
-type: way
+type: node
 latitude: 49.85197
 longitude: -100.93349
-postcode: "R0M 2C0"
+postcode: R0M 2C0
 city: Virden
-street: "7 Avenue"
-housenumber: 417
-phone: "+1-204-748-1317"
+street: 7 Avenue
+housenumber: "417"
+phone: +1-204-748-1317
 opening_hours: ""
 website: ""

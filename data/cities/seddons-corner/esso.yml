@@ -1,11 +1,11 @@
 id: 538584053
-type: way
+type: node
 latitude: 50.06181
 longitude: -96.29128
-postcode: "R0E 1X0"
+postcode: R0E 1X0
 city: Seddons Corner
-street: "PTH-44"
-housenumber: 5098
-phone: "+1-204-268-2524"
+street: PTH-44
+housenumber: "5098"
+phone: +1-204-268-2524
 opening_hours: ""
 website: ""

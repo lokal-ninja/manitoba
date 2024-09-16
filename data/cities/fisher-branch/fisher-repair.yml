@@ -1,11 +1,11 @@
 id: 1295825471
-type: way
+type: node
 latitude: 51.08484
 longitude: -97.62151
-postcode: "R0C 0Z0"
+postcode: R0C 0Z0
 city: Fisher Branch
-street: "Main Street"
-housenumber: 63
+street: Main Street
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

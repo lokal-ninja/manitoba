@@ -1,11 +1,11 @@
 id: 725750684
-type: way
+type: node
 latitude: 49.19197
 longitude: -97.93189
 postcode: ""
 city: Winkler
-street: "Norquay Drive"
-housenumber: 781
+street: Norquay Drive
+housenumber: "781"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

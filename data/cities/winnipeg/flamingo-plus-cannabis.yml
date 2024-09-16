@@ -1,11 +1,11 @@
 id: 973342522
-type: way
+type: node
 latitude: 49.87599
 longitude: -97.26345
 postcode: ""
 city: winnipeg
-street: "Portage Avenue"
-housenumber: 2565
+street: Portage Avenue
+housenumber: "2565"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00"
-website: "https://www.flamingoplus.ca"
+opening_hours: Mo-Fr 10:00-21:00
+website: https://www.flamingoplus.ca

@@ -1,11 +1,11 @@
 id: 538364861
-type: way
+type: node
 latitude: 49.13408
 longitude: -96.56433
-postcode: "R0A 2K0"
+postcode: R0A 2K0
 city: Vita
-street: "1 Street West"
-housenumber: 101
-phone: "+1-204-425-3997"
+street: 1 Street West
+housenumber: "101"
+phone: +1-204-425-3997
 opening_hours: ""
 website: ""

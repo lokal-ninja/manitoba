@@ -1,11 +1,11 @@
 id: 264612731
-type: way
+type: node
 latitude: 56.34904
 longitude: -94.69752
-postcode: "R0B 0L0"
+postcode: R0B 0L0
 city: Gillam
-street: "Mattonnabee Avenue"
-housenumber: 68
-phone: "+1-204-652-2661"
+street: Mattonnabee Avenue
+housenumber: "68"
+phone: +1-204-652-2661
 opening_hours: ""
 website: ""

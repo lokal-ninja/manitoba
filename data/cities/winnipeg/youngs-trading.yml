@@ -1,11 +1,11 @@
 id: 843616500
-type: way
+type: node
 latitude: 49.90143
 longitude: -97.14551
 postcode: ""
 city: Winnipeg
-street: "William Avenue"
-housenumber: 397
+street: William Avenue
+housenumber: "397"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa,Su 09:00-20:00"
+opening_hours: Mo-Fr 09:30-20:00; Sa,Su 09:00-20:00
 website: ""

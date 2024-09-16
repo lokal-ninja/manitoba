@@ -1,11 +1,11 @@
 id: 255624065
-type: way
+type: node
 latitude: 49.53234
 longitude: -96.69372
 postcode: ""
 city: Steinbach
-street: "Loewen Boulevard"
-housenumber: 37
+street: Loewen Boulevard
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

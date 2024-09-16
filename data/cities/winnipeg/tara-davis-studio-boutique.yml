@@ -4,8 +4,8 @@ latitude: 49.89703
 longitude: -97.14066
 postcode: ""
 city: Winnipeg
-street: "McDermot Avenue"
-housenumber: 246
+street: McDermot Avenue
+housenumber: "246"
 phone: ""
-opening_hours: "We-Sa 11:00-16:00 || more as posted"
-website: "https://www.taradavis.ca/"
+opening_hours: We-Sa 11:00-16:00 || "more as posted"
+website: https://www.taradavis.ca/

@@ -1,11 +1,11 @@
 id: 293804635
-type: way
+type: node
 latitude: 49.85249
 longitude: -97.15933
 postcode: ""
 city: Winnipeg
-street: "Taylor Avenue"
-housenumber: 1000
+street: Taylor Avenue
+housenumber: "1000"
 phone: ""
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/winnipeg-grant-park-1186"
+website: https://www.walmart.ca/en/stores-near-me/winnipeg-grant-park-1186

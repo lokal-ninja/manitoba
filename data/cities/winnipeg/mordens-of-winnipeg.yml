@@ -1,11 +1,11 @@
 id: 100143647
-type: way
+type: node
 latitude: 49.89655
 longitude: -97.16249
-postcode: "R3E 0A6"
+postcode: R3E 0A6
 city: Winnipeg
-street: "Sargent Avenue"
-housenumber: 674
+street: Sargent Avenue
+housenumber: "674"
 phone: ""
 opening_hours: ""
 website: ""

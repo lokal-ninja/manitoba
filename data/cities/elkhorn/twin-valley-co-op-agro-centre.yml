@@ -1,11 +1,11 @@
 id: 538289533
-type: way
+type: node
 latitude: 49.97512
 longitude: -101.23879
-postcode: "R0M 0N0"
+postcode: R0M 0N0
 city: Elkhorn
-street: "Richhill Avenue"
-housenumber: 103
+street: Richhill Avenue
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

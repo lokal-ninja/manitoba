@@ -1,11 +1,11 @@
 id: 73319824
-type: way
+type: node
 latitude: 49.88708
 longitude: -97.15108
 postcode: ""
 city: Winnipeg
-street: "Colony Street"
-housenumber: 219
+street: Colony Street
+housenumber: "219"
 phone: ""
 opening_hours: ""
 website: ""
