@@ -1,6 +1,6 @@
 ---
 title: Headingley
 url: /headingley/
-latitude: 49.824
-longitude: -97.353
+latitude: 49.878
+longitude: -97.34
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dauphin
 url: /dauphin/
-latitude: 51.148
-longitude: -100.051
+latitude: 51.151
+longitude: -100.046
 ---
