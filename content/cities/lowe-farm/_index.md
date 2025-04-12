@@ -1,6 +1,6 @@
 ---
 title: Lowe Farm
 url: /lowe-farm/
-latitude: 49.355
-longitude: -97.589
+latitude: 49.413
+longitude: -97.597
 ---
