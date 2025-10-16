@@ -1,6 +1,6 @@
 ---
 title: Winnipeg
 url: /winnipeg/
-latitude: 49.853
-longitude: -97.165
+latitude: 49.882
+longitude: -97.17
 ---
