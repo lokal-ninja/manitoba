@@ -1,6 +1,6 @@
 ---
 title: Moose Lake
 url: /moose-lake/
-latitude: 53.705
-longitude: -100.308
+latitude: 53.707
+longitude: -100.343
 ---
