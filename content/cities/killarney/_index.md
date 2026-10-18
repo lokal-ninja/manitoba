@@ -1,6 +1,6 @@
 ---
 title: Killarney
 url: /killarney/
-latitude: 49.193
-longitude: -99.659
+latitude: 49.177
+longitude: -99.662
 ---
