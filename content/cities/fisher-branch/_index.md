@@ -1,6 +1,6 @@
 ---
 title: Fisher Branch
 url: /fisher-branch/
-latitude: 51.083
-longitude: -97.609
+latitude: 51.082
+longitude: -97.604
 ---
