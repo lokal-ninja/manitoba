@@ -1,6 +1,6 @@
 ---
 title: Powerview-Pine Falls
 url: /powerview-pine-falls/
-latitude: 50.567
-longitude: -96.22
+latitude: 50.562
+longitude: -96.184
 ---
